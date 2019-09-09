@@ -1,0 +1,2 @@
+Writing text in a file using fs module.
+Appending text in a file using fs module.
